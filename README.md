@@ -21,5 +21,5 @@ This project is a web application for managing events, built with PHP and MySQL.
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/vasicut/seabrock.git
+   git clone https://github.com/vasicut/Seabrock.git
 
